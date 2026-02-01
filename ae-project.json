@@ -4,11 +4,6 @@
   "modules": {
     "function_nodejs": "./functions/nodejs",
     "function_nodejs20": "./functions/nodejs_20",
-    "function_golang": {
-      "path": "./functions/golang",
-      "build": {
-        "script": "./build.sh"
-      }
-    }
+    "function_golang": "./functions/golang"
   }
 }
