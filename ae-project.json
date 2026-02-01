@@ -3,6 +3,7 @@
     "namespace": "package_ff1af6__c",
     "modules": {
         "function_nodejs": "./functions/nodejs",
-        "function_nodejs20": "./functions/nodejs_20"
+        "function_nodejs20": "./functions/nodejs_20",
+        "function_golang": "./functions/golang"
     }
 }
