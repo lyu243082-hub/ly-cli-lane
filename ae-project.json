@@ -1,0 +1,9 @@
+{
+    "sourceApiVersion": "2.2",
+    "namespace": "package_be4ac5__c",
+    "modules": {
+        "function_nodejs": "./functions/nodejs",
+        "function_nodejs20": "./functions/nodejs_20",
+        "function_golang": "./functions/golang"
+    }
+}
